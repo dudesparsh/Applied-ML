@@ -15,7 +15,11 @@ The program can automatically detect the Russian car number plate present in the
 
 Link : [Click Here](https://github.com/dudesparsh/Applied-ML/blob/master/Number_Plate_Blurring_using_HaarCascade_%28OpenCV%29.ipynb)
 
-4.  Keras MNIST Classfication
+4. ### Keras MNIST Classfication
+Classfying the MNIST Fashion dataset ( 60000 Images ) into different categories by CNN model in Keras.
+
+Link : [Click here](https://github.com/dudesparsh/100-days-of-code/blob/master/Keras%20Fashion%20MNIST%20Image%20Classification.ipynb)
+
 
 5. ### Image Processing using OpenCV
 Applying basic image processing techniques such as : Sobel Edge detection, Thresholding, kernels & blending using OpenCV
