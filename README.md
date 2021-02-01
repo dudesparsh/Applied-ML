@@ -76,6 +76,37 @@ Applying basic image processing techniques such as : Sobel Edge detection, Thres
 
 Link : [Click here](https://github.com/dudesparsh/100-days-of-code/blob/master/07_Image_Processing_Assessment.ipynb)
 
+
+6. ### Optical Character Recognition ( OCR )
+Using state of the art Tesseract OCR for extracting data from images.
+
+Link : [Click here](https://github.com/dudesparsh/Applied-ML/blob/master/Tesseract_OCR.ipynb)
+
+# Python / Data Science projects
+
+ 1. ### RSS Feed parser
+Using the feed parser library to extract RSS feeds for different podcasts and inserting the data into database into PostGRE's database. Hence automating the feed parsing for simple use in apps / website feeds
+
+Link : [Click Here](https://github.com/dudesparsh/Applied-ML/blob/master/rss_feed.py)
+
+2. ### APPLE stock price prediction using LSTM
+Time series modelling for APPLE stocks. Using past data to predict the future price of APPLE stocks using LSTM models.
+
+Link : [Click Here](https://github.com/dudesparsh/100-days-of-code/blob/master/APPLE_stock_price_prediction_using_LSTM.ipynb)
+
+3. ### Customer Value Prediction
+
+Using data science / machine learning models for prediction of the net profit attributed to the entire future relationship with a customer (Customer Life time Value).
+
+Link : [Click Here](https://github.com/dudesparsh/Applied-ML/blob/master/Customer_Value_Prediction.ipynb)
+
+4. ### Text to Speech System
+
+Using Google's SOTA speech recognition library to automatically convert speect into text
+
+Link : [Click here](https://github.com/dudesparsh/100-days-of-code/blob/master/Text_to_speech_Demo.ipynb)
+
+
 # Fast.ai
 1. ### Classifying IMDB reviews ( NLP )
 Classifying IMDB reviews as positive or Negative based on the review text using LSTMs ( 92.4 % accuracy ) using fast.ai models ( AWD-LSTM ).
