@@ -1,6 +1,30 @@
 # Applied-ML
 Repository containing all the major applications of Machine Learning / Deep Learning Projects done by me . Every project is sorted by category and followed by a small description of its application features, dataset and methods used.
 
+# Natural Language Processing ( NLP )
+
+
+ 1. ### Named Entity Recognition ( NER ) using Spacy
+Named entity Recognition model to extract informationand classify named entities mentioned in unstructured text into pre-defined categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc. 
+
+
+Link : [Click Here](https://github.com/dudesparsh/Applied-ML/blob/master/NLP_Named_Entity_Recognition.ipynb)
+
+2. ### Topic Modelling using Genism and NLTK
+Using statistical modeling techniques for discovering the abstract “topics” that occur in a collection of documents and thus helping in automatic (unsupervised ) title / classification process. Here we used News Headlines from reputable Australian news source ABC (Australian Broadcasting Corporation) and used LDA, Genism doc2bow for modelling purposes. 
+
+Link : [Click Here](https://github.com/dudesparsh/Applied-ML/blob/master/NLP_Topic_Modelling.ipynb)
+
+3. ### Sentiment Analysis
+
+Using different State-of-the-art techniques / models for natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information. 
+
+Link : [Click Here](https://github.com/dudesparsh/Applied-ML/blob/master/Number_Plate_Blurring_using_HaarCascade_%28OpenCV%29.ipynb)
+
+4. ### Keras MNIST Classfication
+Classfying the MNIST Fashion dataset ( 60000 Images ) into different categories by CNN model in Keras.
+
+Link : [Click here](https://github.com/dudesparsh/100-days-of-code/blob/master/Keras%20Fashion%20MNIST%20Image%20Classification.ipynb)
 
 # Computer Vision
 
