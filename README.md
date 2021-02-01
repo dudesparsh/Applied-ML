@@ -24,6 +24,7 @@ i. Determing sentiment polarity for time-series modelling. Using sentiment analy
 Link : [Click Here](https://github.com/dudesparsh/100-days-of-code/blob/master/main.py)
 
 ii. Classifying IMDB reviews ( NLP )
+
 Classifying IMDB reviews as positive or Negative based on the review text using LSTMs ( 92.4 % accuracy ) using fast.ai models ( AWD-LSTM ). Based on transfer learning approach with classificaiton model trained on Wikitext-103 dataset
 
 Link : [Click Here](https://github.com/dudesparsh/Applied-ML/blob/master/IMDB_NLP.ipynb)
@@ -32,8 +33,9 @@ iii. Airline tweet sentiment Analysis ( using Flair ) : Classifying airline pass
 
 Link : [Click Here](https://github.com/dudesparsh/Applied-ML/blob/master/Sentiment_Analysis_using_Flair.ipynb)
 
-iii. NLTK sentiment Analysis :  [Click Here](https://github.com/dudesparsh/100-days-of-code/blob/master/NLTK_Sentiment_Analysis.ipynb)
-iv. TextBlob sentiment Analysis :  [Click Here](https://github.com/dudesparsh/100-days-of-code/blob/master/TextBlob_Sentiment_Analysis.ipynb)
+iv. NLTK sentiment Analysis :  [Click Here](https://github.com/dudesparsh/100-days-of-code/blob/master/NLTK_Sentiment_Analysis.ipynb)
+
+v. TextBlob sentiment Analysis :  [Click Here](https://github.com/dudesparsh/100-days-of-code/blob/master/TextBlob_Sentiment_Analysis.ipynb)
  
 
 
