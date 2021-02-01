@@ -132,3 +132,32 @@ Link : [Click here](https://github.com/dudesparsh/Applied-ML/blob/master/Regress
 Script based extraction of data from google images & Application of ResNet34 & ResNet50 CNN model to classify the images in custom bears dataset using fastai.
 
 Link : [Click Here](https://github.com/dudesparsh/Applied-ML/blob/master/Custom%20dataset%20Classification.ipynb)
+
+
+
+
+# Web Scrapers
+1. ### Immo Scout ( end-to-end )
+Using BeautifulSoup to scrape data from Biggest German Real estate site and storing it in remote SQL database for analytics purposes.
+
+Link : [Click Here](https://github.com/dudesparsh/Applied-ML/blob/master/Immo_Deploy_Final_(_Updated_).ipynb)
+
+2.  ### Food.com 
+Using BeautifulSoup to scrape Food.com ( Food.com is a digital brand and online social networking service featuring recipes from home cooks and celebrity chefs, food news, new and classic shows, and pop culture )
+
+Link : [Click here](https://github.com/dudesparsh/100-days-of-code/blob/master/Food_scraper_updated.ipynb)
+
+3. ### Porsche Scraper
+Extracting cars inventory data from Porsche.com.
+
+Link : [Click here](https://github.com/dudesparsh/100-days-of-code/blob/master/Porsche_Scraper.ipynb)
+
+4. ### Capterra Scraper 
+Using bs4 for scraping softwares data from Capterra website
+
+Link : [Click here](https://github.com/dudesparsh/100-days-of-code/blob/master/Capterra_Scraper.ipynb)
+
+5. ### Clinic Portal Scraper 
+Scraping script for extracting data of all clinics from the portal
+
+Link : [Click Here](https://github.com/dudesparsh/100-days-of-code/blob/master/Clinic_Portal_Scraper.ipynb)
